@@ -2,7 +2,7 @@
 ![Logo](https://cdn.discordapp.com/attachments/1064584898494611628/1076162102894542868/20230217_131413.png)
 
 # TROLL.INC SPECIAL UI
-TROLL.INC SPECIAL UI is a Minecraft Pocket Edition client designed to provide a better UI and FPS boost to enhance your Minecraft gaming experience. This client includes a range of features such as RGB hotbar, better boss bar, debug, inbuilt compass, inbuilt music player, and 30+ inbuilt music.
+**Public For Skids**
 ## Features
 
 * **RGB hotbar**: The RGB hotbar feature allows you to customize the color of your hotbar according to your preferences.
@@ -29,11 +29,11 @@ TROLL.INC SPECIAL UI is a Minecraft Pocket Edition client designed to provide a 
 
 ## Installation
 
-* **Download the 'TiSUI' TROLL.INC SPECIAL UI client from the GitHub repository.**
+* **Download the .zip.**
 
-* **Transfer the downloaded .mcpack file to your Android device.**
+* **Transfer the folder inside toolbox apk -> assets -> tb1 -> res**
 
-* **On your Android device, open the 'TiSUI' TROLL.INC SPECIAL UI .mcpack file. It will automatically open Minecraft Pocket Edition.**
+* **Then Recompile the apk**
 
 * **Minecraft Pocket Edition will show a message asking if you want to install the 'TiSUI' TROLL.INC SPECIAL UI client. Click on "Import".**
 
